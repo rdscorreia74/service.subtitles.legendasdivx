@@ -32,6 +32,7 @@ import urllib.parse
 import urllib.request
 import socket
 import re
+import html  # added by Gemini AI
 
 
 _addon = xbmcaddon.Addon()
